@@ -6,6 +6,7 @@ VBAが簡単に書けるように、そしてメンテナンスしやすいソ�
 日本語と英語のドキュメントを提供し、誰でも使えるものにしたいです。
 
 ## 特徴
+- Dictionaryを拡張したクラス
 
 ## 備考
 
@@ -21,6 +22,7 @@ Add valid classes to make VBA easy to write and maintainable source code.
 I would like to provide Japanese and English documents so that anyone can use them.
 
 ## Features
+- A class that extends Dictionary
 
 ## Remarks
 
